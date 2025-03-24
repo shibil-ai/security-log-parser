@@ -1,0 +1,8 @@
+
+[2024-03-25 09:00:12] INFO: User john logged in
+[2024-03-25 09:02:45] WARNING: Failed login attempt for user alice
+[2024-03-25 09:03:00] ERROR: Unauthorized access attempt detected
+[2024-03-25 09:05:13] INFO: User emily logged out
+[2024-03-25 09:10:27] WARNING: Failed login attempt for user mark
+[2024-03-25 09:15:00] INFO: User admin logged in
+[2024-03-25 09:17:32] ERROR: Malware signature detected in process xyz

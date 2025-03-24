@@ -1,0 +1,5 @@
+
+📊 Security Log Summary:
+🔐 Failed Login Attempts: 2
+🚫 Unauthorized Access Attempts: 1
+🦠 Malware Detections: 1
