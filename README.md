@@ -18,7 +18,7 @@ This is a simple Python script that parses a sample `security.log` file and gene
 
 - `security.log` – Sample log input
 - `output_summary.txt` – Generated summary report
-- `security_log_parser.py` – (You can add later for actual parser script)
+- `security_log_parser.py` – 
 
 ---
 
